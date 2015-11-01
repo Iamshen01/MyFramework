@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">higotest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="title_fragment_home">附近商店</string>
+    <string name="title_fragment_order">我的订单</string>
+    <string name="title_fragment_account">个人</string>
+    
+    <string name="tab_home">首页</string>
+    <string name="tab_order">订单</string>
+    <string name="tab_account">个人</string>
+    
+    <string name="net_server_error">网络或服务器错误</string>
+
+</resources>
